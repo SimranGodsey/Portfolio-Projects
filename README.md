@@ -1,6 +1,6 @@
 Hello Everyone!!
 
-This is my 1st portfolio project. The project is about the analysing the Covid data set.
+This is my 1st portfolio project. The project is about the analysing the Covid data set from 2020 -23(till jan)
 
 I have done the following process:
 
